@@ -6,4 +6,4 @@
 
 ### Palette colors ###
 * Primary-color `#3a3a3a`
-* Second-color ``#f4f4f4`
+* Second-color `#f4f4f4`
