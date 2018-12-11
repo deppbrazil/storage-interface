@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    font-size: 10px;
+    line-height: 10px;
+    font-family: "Open Sans","Helvetica Neue", Arial, sans-serif;
+    color: #f4f4f4;
+    background-color: white;
+}
+header {
+    width: 100%;
+    height: 80vh;
+    background-color: #f0f3f4;  
+}
+
+section {
+    position: fixed;
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: #3a3a3a;
+}
+
+div {
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: #3a3a3a;
+}
+
+h1 {
+    font-size: 2.6em;
+    text-align: center;
+}
+
+footer {
+
+}
