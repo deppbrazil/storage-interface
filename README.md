@@ -1,10 +1,7 @@
 # Interface para disponibilização de gabaritos #
 
-### Demo ###
-[Click here](https://deppbrazil.github.io/storage-interface/)
-
-### Next Features ###
-[Click here](https://github.com/deppbrazil/storage-interface/blob/master/next-steps.md)
+[Demo](https://deppbrazil.github.io/storage-interface/)
+[Next Features](https://github.com/deppbrazil/storage-interface/blob/master/next-steps.md)
 
 ### Stacks ###
 * HTML5
